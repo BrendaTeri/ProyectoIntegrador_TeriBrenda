@@ -1,0 +1,20 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: #d5c9b1;;
+    text-align:center;
+}
+
+@media ( min-width: 768px ) { 
+    #imagen-perfil{
+        left: 2%;
+        top: 500px;
+    }
+}
+
+/* Nombre */
+.nombre{
+    font-weight: 700;
+    margin-top: 20%;
+}
